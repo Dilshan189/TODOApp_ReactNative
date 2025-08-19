@@ -33,7 +33,7 @@ This app allows you to add, search, filter, and manage your tasks with a clean U
 
 🚀 Getting Started
 1. Clone the repo
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/Dilshan189/TODOApp_ReactNative.git
 cd todo-app
 
 2. Install dependencies
