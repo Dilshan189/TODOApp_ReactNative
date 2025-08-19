@@ -47,10 +47,6 @@ npx expo start
 
 (or npm run android / npm run ios if using React Native CLI)
 
-📸 Screenshots
-
-(Add your app screenshots here for better presentation)
-
 🛠️ Tech Stack
 
 React Native / Expo
